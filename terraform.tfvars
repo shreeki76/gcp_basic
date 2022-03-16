@@ -1,3 +1,3 @@
-project                  = "terra-demo-7421"
-credentials_file         = "terra-demo-7421-91fabbcc8605.json"
+project                  = "sample-gap-project"
+credentials_file         = "sample-gap-project-060f5e6253ff.json"
 
