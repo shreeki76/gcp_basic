@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "terra-demo-7421",
+  "private_key_id": "91fabbcc860552e7d614f1974afe6518df095d3b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDrbNeWEgzrRl9W\nUYQXhGqMzi9rF9AEBltsUU9GV1gC9pb/tnQ8XZ/gROxjhFZgRBXjd6U5j790gGOi\n7We0LXqFLEWxuEb7HyEh+xKp2CkJVpY102JyCrjSkq/DBdYC7qgUBXUo7GHRl/Ib\nZV8OXXMaioRRJvrJTejrU4nUH6+b7Tt7yK7PlD2leM40hC5HL74o3bCGrKGmUEQy\nSpNZ1CPBukrHuNXmE53JbRXopuh1CIOSH2RFnQj65qtKLRW2xFLwVzSXJZdvFQUh\nSUxDb7bcX36oCA9SflIPEV0KrMDHaeK1JKVgY9b6qve2h7B82H59GfzB3i4BZ8a6\nTZzsiIclAgMBAAECggEAIUqwqJcq3oaCwDPM0yqK4BiJhMJxocVoXkaX8vbdClDm\nr4iUorNhWBdHD8JMw1Y9e3+VjNtIFBMn2TLAodkgj1PgaIO0/e68AmXSkNQcPCbT\ncmR5x8NpDtYRfCmyHD4K5LHqNybzpO5bcrEAzTOSgw6oLCBarJGTk4ZVDPs3cSbI\nottRREAkiZkq/JuzauiyK2BDwzr2c6y/jafmXyHKUTB+dBrzvMNFl21ttRHYL2ZV\njSvXaussJwgoicJQgZhkltKmRHZaa15rxZ+g8/nLCpjafKekC5FGJLPSUcQOSjW4\nuHxDdekLhVcq4VIsE/kaP47FQbdrAlUIxS2ZP2+6LQKBgQD75ViG7KwlYcJbZ/mI\ndpitRAzQra6b2ckKVPYkdvK+y+l49p+8QfXb7p7BEruJbJoyCsFLpYHH+l9uvazu\nH5dXgZUXmoO8mgvyloA8UAJG3H+W4CYWcZIXs5qBdcIs5bQeUYKWpF4FJ4NMCDiM\nJN1xL/YJr21/992daSdqysiO3wKBgQDvQswU210L/3SUSL4sRoltZEr7d1Dmcp6K\n7Tpkp9rhodjlNb6oadTliI23uJr/+ckgJLl3Ozhwrsrsrx2+yqro8mvAlcjAS1I5\nJgY7LFsrSAT2vQX7eoZmQoykdS+F3pj3spkjCFJZz55ekmPgMaTvnbdJO53SwUlB\nAJvnWwpeewKBgQDjN2G/c0VlAuW6ZfOksLXPtQ6KPeC/HJhIBZNyGQmmKXGUd4Jm\n4mjP1lLFfgxETf5ZHXJ2tfh3VtU2o0mWElEF0hGWlP435gzY6gEKZnFnUgaVJeO1\nYwSQ9KVuGbbpoNn0bzoIgIN+ysGYl+HKKIbHTqf03JU9VWxGTVAM+JYoqQKBgCgD\nM74JMXZgMk7aG3OsGC+DJkcHnS/s2zbAlZNfvusc9fjfFBN2H3SDca/X35QPYeNO\nQPX/oWC22pjacE8H9a0fXYXHhtshvY5xHXmn4VdLpAjfc7CqvO89Eegu8NOidlJ2\nO8XwDlWWsxV9xdYodzzbU1ub7LjiOi30vB3ky8chAoGBAI1OYUC2GDGhLUZ9x5zS\ntqELaI77WkYB5TNbTx/tRo3Abw3Jln33mWF2OGTQOpWO+8VQpWCMFFQd06MUaxkt\njQpDw40QzAaustI/v6EoR4uvIICLv2GwTqxkPgP4fdwJJJTB2RxKbzqeTp3FCLUM\ntasWftf1RFur2Y1tqelng7if\n-----END PRIVATE KEY-----\n",
+  "client_email": "terra-demo@terra-demo-7421.iam.gserviceaccount.com",
+  "client_id": "102289088848745480144",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terra-demo%40terra-demo-7421.iam.gserviceaccount.com"
+}
